@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Codelearnz**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **JS , CSS , HTML , PHP , Java**
 
