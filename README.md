@@ -1,6 +1,7 @@
+<!-- <img align="center" width="100%" height="290px"  src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"> -->
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A competent frontend developer from Palestine</h3>
-<img align="right" width="400" src="https://media.discordapp.net/attachments/989268383751106560/1088106238392410182/animated_coding_gif_6e13c452-898f-4a0f-8091-76f0dd06bb05.png?width=422&height=422">
+<img align="right" width="400" height="350px"src="https://media.discordapp.net/attachments/989268383751106560/1088106238392410182/animated_coding_gif_6e13c452-898f-4a0f-8091-76f0dd06bb05.png?width=422&height=422">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmalk&label=Profile%20views&color=0e75b6&style=flat" alt="zmalk" /> </p>
 
