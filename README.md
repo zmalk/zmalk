@@ -1,5 +1,8 @@
-h1 align="center">Hi 👋, I'm Mohammed</h1>
+
+<h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A competent frontend developer from Palestine</h3>
+
+<img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" align="right" width="500" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmalk&label=Profile%20views&color=0e75b6&style=flat" alt="zmalk" /> </p>
 
@@ -21,6 +24,6 @@ h1 align="center">Hi 👋, I'm Mohammed</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmalk&show_icons=true&locale=en&layout=compact" alt="zmalk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmalk&show_icons=true&locale=en" alt="zmalk" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zmalk&show_icons=true&locale=en" alt="zmalk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmalk&" alt="zmalk" /></p>
